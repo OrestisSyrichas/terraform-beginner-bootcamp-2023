@@ -1,7 +1,7 @@
 # _Terraform Beginner Bootcamp 2023_
 
 
-#### Symantic Versioning
+#### Symantic Versioning :mage:
 This project is going to utilize the symantec versiong for tagging
 [https://semver.org/](https://semver.org/)
 
