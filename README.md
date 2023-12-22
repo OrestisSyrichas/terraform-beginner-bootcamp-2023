@@ -60,6 +60,16 @@ gp env HELLO=`world`
 
 All future workspace vars will set the env vars for all bash terminals opened in those workspaces.
 You can also set env vars in `.gitpod.yml` but this can only contain non-sensitive env vars.
+
+
+### AWS CLI Installation
+
+AWS CLI is installed for this project via the bash script `./bin/Install_AWS_CLI.sh` [`./bin/Instal_AWS_CLI.sh`](./bin/Install_AWS_CLI.sh)
  
 
+[Getting Started Install (AWS CLI)](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+We can check if our AWS credentials is configured correctly by running the following command:
+
+```sh
 
