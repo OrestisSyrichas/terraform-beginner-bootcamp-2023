@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+!#bin/bash
 PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'
 cd /workspace
       
