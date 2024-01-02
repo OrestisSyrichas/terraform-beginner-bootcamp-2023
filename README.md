@@ -72,4 +72,6 @@ AWS CLI is installed for this project via the bash script `./bin/Install_AWS_CLI
 We can check if our AWS credentials is configured correctly by running the following command:
 
 ```sh
+aws sts get-caller-identity
+```
 
